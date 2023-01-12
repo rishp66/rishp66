@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Azure and IT**
 
-- 📫 How to reach me **rishped.31@gmail.com**
+- 📫 How to reach me: **rishped.31@gmail.com**
 
 - ⚡ Fun fact **I broke my hand on my birthday (lol).**
 
