@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rish Pednekar</h1>
 <h3 align="center">A passionate IT & Data Science Student located at Rutgers University! I</h3>
 
-- 🔭 I’m currently working on Crazy 8 in Python
+- 🔭 Current Project: Crazy 8 in Python
 
-- 🌱 I’m currently learning **Python and Javascript**
+- 🌱 Learning: **Python and BASH**
 
 - 💬 Ask me about **Azure and IT**
 
 - 📫 How to reach me: **rishped.31@gmail.com**
-
-- ⚡ Fun fact **I broke my hand on my birthday (lol).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
