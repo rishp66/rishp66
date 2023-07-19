@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rish Pednekar</h1>
-<h3 align="center">A passionate IT & Data Science Student located at Rutgers University! I</h3>
+<h3 align="center">A passionate IT & Data Science Student located at Rutgers University! </h3>
 
 - 🔭 Current Project: Crazy 8 in Python
 
