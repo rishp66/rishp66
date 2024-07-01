@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rish Pednekar</h1>
 <h3 align="center">A passionate IT & Data Science Student located at Rutgers University! </h3>
 
-- 🔭 Current Project: Flask Application with Azure Deployment
+- 🔭 Current Project: Pokemon TCG on Azure Analyzer
 
 - 🌱 Learning: **Python and BASH**
 
