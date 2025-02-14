@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rish Pednekar</h1>
 <h3 align="center">A passionate IT & Data Science Student located at Rutgers University! </h3>
 
-- 🔭 Current Project: Learning Microsoft Az-500
+- 🔭 Current Project: Learning Microsoft AZ-500
 
 - 🌱 Learning: **Python and BASH**
 
