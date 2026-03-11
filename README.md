@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Rish Pednekar 🦈⚡
+# Hey, I'm Rish Pednekar!
 
 ### Cyber Analyst · Cloud Security Enthusiast · Rutgers Alum
 
