@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **rishped.31@gmail.com**
 
-- **[My Website]** (https://www.rishpednekar.com/)
+- **My Website:** _https://www.rishpednekar.com_
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
