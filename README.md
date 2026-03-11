@@ -9,6 +9,8 @@
 
 - 📫 How to reach me: **rishped.31@gmail.com**
 
+- **[My Website]** (https://www.rishpednekar.com/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rish-pednekar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rish-pednekar/" height="30" width="40" /></a>
